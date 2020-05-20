@@ -37,3 +37,17 @@ Akshaya Nagarajan, Asha Aher, Swati Narkhede
 2. https://tensorboard.dev/experiment/ll6KJrPMS2Wqc3c9JGClsA/
 3. https://tensorboard.dev/experiment/zOS2EHgeRUqalb1qW2ZqVw/#scalars
 
+## Visualizations:
+
+### Class Distribution
+![Class Distribution](https://user-images.githubusercontent.com/57167636/82406057-863a0d00-9a1a-11ea-9422-740c393219a0.png)
+
+### Class Distribution
+![Class Distribution](https://user-images.githubusercontent.com/57167636/82406060-8803d080-9a1a-11ea-8e92-4c87728e7592.png)
+
+### Confusion Matrix
+![Confusion Matrix](https://user-images.githubusercontent.com/57167636/82406062-889c6700-9a1a-11ea-9b49-02bbaff9452d.png)
+
+### Confusion Matrix
+![Confusion Matrix](https://user-images.githubusercontent.com/57167636/82406064-889c6700-9a1a-11ea-90bf-f7acd2301085.png)
+
