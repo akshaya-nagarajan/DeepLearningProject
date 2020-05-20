@@ -7,6 +7,9 @@ Akshaya Nagarajan, Asha Aher, Swati Narkhede
 ## Presentation Link:
 https://drive.google.com/open?id=1jRx606jaa0_DVXIb2mGKzbasU2F63fGh
 
+## PPT:
+https://github.com/akshaya-nagarajan/DeepLearningProject/blob/master/DL_final_deck.pptx
+
 ## Data:
 - https://drive.google.com/drive/folders/1efJppHFuznQqAYXkSTepx68mCkSKAO_M?usp=sharing
 
