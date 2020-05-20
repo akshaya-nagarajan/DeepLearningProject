@@ -58,5 +58,5 @@ Akshaya Nagarajan, Asha Aher, Swati Narkhede
 
 Approaches  | 1 | 2  | 3 | 4 | 5
 ------------- | ------------- | ------------- | -------------  | ------------- | -------------
-Model | CNN | VGG16 model with 2 classes | Inception model with 2 classes  | Inception model with all classes | VGG16 model with all classes
+Model | CNN | VGG16 model with 2 classes | InceptionV3 model with 2 classes  | InceptionV3 model with all classes | VGG16 model with all classes
 Result | 86% | 57% | 86% | 19% | 32%
