@@ -25,6 +25,9 @@ Akshaya Nagarajan, Asha Aher, Swati Narkhede
     #### VGG16: 
     - 2 Classes: https://github.com/akshaya-nagarajan/DeepLearningProject/blob/master/DLProjectTransferLearningModelVGGModel.ipynb
     - Multi-Class(9 classes): https://github.com/akshaya-nagarajan/DeepLearningProject/blob/master/DLProjectTransferLearningModelVGGModelMultiClass.ipynb
+    
+    #### CNN:
+    - Multiclass(9 classes): https://github.com/akshaya-nagarajan/DeepLearningProject/blob/master/Yoga_pose_classification_with_CNN.ipynb
 
 ## Web App Code:
 - https://github.com/akshaya-nagarajan/DeepLearningProject/tree/master/Deployment-Deep-Learning-Model
