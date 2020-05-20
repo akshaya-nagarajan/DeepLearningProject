@@ -53,3 +53,10 @@ Akshaya Nagarajan, Asha Aher, Swati Narkhede
 
 ### Web App
 ![Web App](https://user-images.githubusercontent.com/57167636/82406421-6f47ea80-9a1b-11ea-8ae6-92e43f8b6c36.png)
+
+## Results
+
+Approaches  | 1 | 2  | 3 | 4 | 5
+------------- | ------------- | ------------- | -------------  | ------------- | -------------
+Model | CNN | VGG16 model with 2 classes | Inception model with 2 classes  | Inception model with all classes | VGG16 model with all classes
+Result | 86% | 57% | 86% | 19% | 32%
