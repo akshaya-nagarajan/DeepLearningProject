@@ -4,6 +4,9 @@
 ## Team Members:
 Akshaya Nagarajan, Asha Aher, Swati Narkhede
 
+## Data:
+- https://drive.google.com/drive/folders/1efJppHFuznQqAYXkSTepx68mCkSKAO_M?usp=sharing
+
 ## Files:
 1. Data Collection, Cleaning, Preprocessing 
 - https://github.com/akshaya-nagarajan/DeepLearningProjects/blob/master/Project/DLProjectDatasetPreprocessing.ipynb
