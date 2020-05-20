@@ -13,13 +13,13 @@ Akshaya Nagarajan, Asha Aher, Swati Narkhede
 
 3. Models - 
 
-InceptionV3:
+### InceptionV3:
 - 2 Classes: https://github.com/akshaya-nagarajan/DeepLearningProject/blob/master/DLProjectTransferLearningModelInceptionModel.ipynb
 - Multi-Class(9 classes): https://github.com/akshaya-nagarajan/DeepLearningProject/blob/master/DLProjectTransferLearningModelInceptionMultiClass.ipynb
 - Multi-Class(4 classes): https://github.com/akshaya-nagarajan/DeepLearningProject/blob/master/DLProjectTransferLearningModelInceptionModelFourClass.ipynb
 - Multi-Class(3 classes): https://github.com/akshaya-nagarajan/DeepLearningProject/blob/master/DLProjectTransferLearningModelInceptionModelWithThreeClass.ipynb
 
-VGG16: 
+### VGG16: 
 - 2 Classes: https://github.com/akshaya-nagarajan/DeepLearningProject/blob/master/DLProjectTransferLearningModelVGGModel.ipynb
 - Multi-Class(9 classes): https://github.com/akshaya-nagarajan/DeepLearningProject/blob/master/DLProjectTransferLearningModelVGGModelMultiClass.ipynb
 
