@@ -38,6 +38,14 @@ https://github.com/akshaya-nagarajan/DeepLearningProject/blob/master/DL_final_de
 ## Web App Code:
 - https://github.com/akshaya-nagarajan/DeepLearningProject/tree/master/Deployment-Deep-Learning-Model
 
+## Prerequisites for web deployment:
+1.  Install below dependecies:
+    1. matplotlib
+    2. Keras
+    3. Tensorflow
+    4. Pillow
+2. To load the model in flask application, please upload the saved model file (model.h5) in the directory before exectution of flask code.
+
 ## Tensorboard Uploads:
 1. https://tensorboard.dev/experiment/MGheONk3Qm2yXvG0WALsVw/#scalars
 2. https://tensorboard.dev/experiment/ll6KJrPMS2Wqc3c9JGClsA/
