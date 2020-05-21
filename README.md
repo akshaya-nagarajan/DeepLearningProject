@@ -65,12 +65,17 @@ https://github.com/akshaya-nagarajan/DeepLearningProject/blob/master/DL_final_de
 ### Confusion Matrix
 ![Confusion Matrix](https://user-images.githubusercontent.com/57167636/82406064-889c6700-9a1a-11ea-90bf-f7acd2301085.png)
 
-### Web App
-![Web App](https://user-images.githubusercontent.com/57167636/82406421-6f47ea80-9a1b-11ea-8ae6-92e43f8b6c36.png)
-
 ## Results
 
 Approaches  | 1 | 2  | 3 | 4 | 5
 ------------- | ------------- | ------------- | -------------  | ------------- | -------------
 Model | CNN | VGG16 model with 2 classes | InceptionV3 model with 2 classes  | InceptionV3 model with all classes | VGG16 model with all classes
 Result | 86% | 57% | 86% | 19% | 32%
+
+
+### Web App Screens
+![Web App](https://user-images.githubusercontent.com/57167636/82527949-860a4200-9aec-11ea-9faa-efbcbb2beec5.png)
+![Web App](https://user-images.githubusercontent.com/57167636/82527943-81de2480-9aec-11ea-81bc-43cc364d5f45.png)
+![Web App](https://user-images.githubusercontent.com/57167636/82527947-84d91500-9aec-11ea-959d-2d8440b7a25b.png)
+
+
